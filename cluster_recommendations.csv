@@ -1,0 +1,1001 @@
+title,genres,cluster,mean,count,userId
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,76630
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,76630
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,76630
+All About Eve (1950),Drama,2,4.189655172413793,58,76630
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,76630
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,76630
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,76630
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,76630
+High Noon (1952),Drama|Western,2,4.151785714285714,56,76630
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,76630
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,133811
+All About Eve (1950),Drama,2,4.189655172413793,58,133811
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,133811
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,133811
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,133811
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,133811
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,133811
+"General, The (1926)",Comedy|War,2,4.127906976744186,43,133811
+Dr. Horrible's Sing-Along Blog (2008),Comedy|Drama|Musical|Sci-Fi,2,4.121212121212121,99,133811
+Yojimbo (1961),Action|Adventure,2,4.111111111111111,72,133811
+Fight Club (1999),Action|Crime|Drama|Thriller,1,4.258503401360544,588,70201
+"Matrix, The (1999)",Action|Sci-Fi|Thriller,1,4.195359281437126,668,70201
+City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,1,4.170250896057348,279,70201
+My Neighbor Totoro (Tonari no Totoro) (1988),Animation|Children|Drama|Fantasy,1,4.135483870967742,155,70201
+Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,1,4.119791666666667,192,70201
+Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,1,4.114285714285714,350,70201
+"Lives of Others, The (Das leben der Anderen) (2006)",Drama|Romance|Thriller,1,4.1069182389937104,159,70201
+Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,1,4.101960784313725,510,70201
+Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime,1,4.093582887700535,187,70201
+Schindler's List (1993),Drama|War,1,4.089041095890411,438,70201
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,79531
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,79531
+All About Eve (1950),Drama,2,4.189655172413793,58,79531
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,79531
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,79531
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,79531
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,79531
+High Noon (1952),Drama|Western,2,4.151785714285714,56,79531
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,79531
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,79531
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,42096
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,42096
+All About Eve (1950),Drama,2,4.189655172413793,58,42096
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,42096
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,42096
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,42096
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,42096
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,42096
+High Noon (1952),Drama|Western,2,4.151785714285714,56,42096
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,42096
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,21391
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,21391
+All About Eve (1950),Drama,2,4.189655172413793,58,21391
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,21391
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,21391
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,21391
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,21391
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,21391
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,21391
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,21391
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,117144
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,117144
+All About Eve (1950),Drama,2,4.189655172413793,58,117144
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,117144
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,117144
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,117144
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,117144
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,117144
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,117144
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,117144
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,34587
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,34587
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,34587
+All About Eve (1950),Drama,2,4.189655172413793,58,34587
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,34587
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,34587
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,34587
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,34587
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,34587
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,34587
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,113806
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,113806
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,113806
+All About Eve (1950),Drama,2,4.189655172413793,58,113806
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,113806
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,113806
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,113806
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,113806
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,113806
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,113806
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,35227
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,35227
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,35227
+All About Eve (1950),Drama,2,4.189655172413793,58,35227
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,35227
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,35227
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,35227
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,35227
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,35227
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,35227
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,96370
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,96370
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,96370
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,96370
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,96370
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,96370
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,96370
+High Noon (1952),Drama|Western,2,4.151785714285714,56,96370
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,96370
+Battlestar Galactica (2003),Drama|Sci-Fi|War,2,4.140449438202247,89,96370
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,45015
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,45015
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,45015
+All About Eve (1950),Drama,2,4.189655172413793,58,45015
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,45015
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,45015
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,45015
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,45015
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,45015
+High Noon (1952),Drama|Western,2,4.151785714285714,56,45015
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,25411
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,25411
+All About Eve (1950),Drama,2,4.189655172413793,58,25411
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,25411
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,25411
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,25411
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,25411
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,25411
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,25411
+High Noon (1952),Drama|Western,2,4.151785714285714,56,25411
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,134401
+All About Eve (1950),Drama,2,4.189655172413793,58,134401
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,134401
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,134401
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,134401
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,134401
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,134401
+Battlestar Galactica (2003),Drama|Sci-Fi|War,2,4.140449438202247,89,134401
+Double Indemnity (1944),Crime|Drama|Film-Noir,2,4.139175257731959,97,134401
+"General, The (1926)",Comedy|War,2,4.127906976744186,43,134401
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,10514
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,10514
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,10514
+All About Eve (1950),Drama,2,4.189655172413793,58,10514
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,10514
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,10514
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,10514
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,10514
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,10514
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,10514
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,68558
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,68558
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,68558
+All About Eve (1950),Drama,2,4.189655172413793,58,68558
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,68558
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,68558
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,68558
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,68558
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,68558
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,68558
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,41613
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,41613
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,41613
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,41613
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,41613
+High Noon (1952),Drama|Western,2,4.151785714285714,56,41613
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,41613
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,41613
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,41613
+Double Indemnity (1944),Crime|Drama|Film-Noir,2,4.139175257731959,97,41613
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,84752
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,84752
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,84752
+All About Eve (1950),Drama,2,4.189655172413793,58,84752
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,84752
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,84752
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,84752
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,84752
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,84752
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,84752
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,55479
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,55479
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,55479
+All About Eve (1950),Drama,2,4.189655172413793,58,55479
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,55479
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,55479
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,55479
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,55479
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,55479
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,55479
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,108195
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,108195
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,108195
+All About Eve (1950),Drama,2,4.189655172413793,58,108195
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,108195
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,108195
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,108195
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,108195
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,108195
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,108195
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,120572
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,120572
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,120572
+All About Eve (1950),Drama,2,4.189655172413793,58,120572
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,120572
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,120572
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,120572
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,120572
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,120572
+High Noon (1952),Drama|Western,2,4.151785714285714,56,120572
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,4347
+All About Eve (1950),Drama,2,4.189655172413793,58,4347
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,4347
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,4347
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,4347
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,4347
+High Noon (1952),Drama|Western,2,4.151785714285714,56,4347
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,4347
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,4347
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,4347
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,26867
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,26867
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,26867
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,26867
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,26867
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,26867
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,26867
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,26867
+Battlestar Galactica (2003),Drama|Sci-Fi|War,2,4.140449438202247,89,26867
+Dr. Horrible's Sing-Along Blog (2008),Comedy|Drama|Musical|Sci-Fi,2,4.121212121212121,99,26867
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,45619
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,45619
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,45619
+All About Eve (1950),Drama,2,4.189655172413793,58,45619
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,45619
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,45619
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,45619
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,45619
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,45619
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,45619
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,134156
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,134156
+All About Eve (1950),Drama,2,4.189655172413793,58,134156
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,134156
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,134156
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,134156
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,134156
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,134156
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,134156
+High Noon (1952),Drama|Western,2,4.151785714285714,56,134156
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,127138
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,127138
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,127138
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,127138
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,127138
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,127138
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,127138
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,127138
+"General, The (1926)",Comedy|War,2,4.127906976744186,43,127138
+Dr. Horrible's Sing-Along Blog (2008),Comedy|Drama|Musical|Sci-Fi,2,4.121212121212121,99,127138
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,132187
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,132187
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,132187
+All About Eve (1950),Drama,2,4.189655172413793,58,132187
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,132187
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,132187
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,132187
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,132187
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,132187
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,132187
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,88738
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,88738
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,88738
+All About Eve (1950),Drama,2,4.189655172413793,58,88738
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,88738
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,88738
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,88738
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,88738
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,88738
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,88738
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,26480
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,26480
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,26480
+All About Eve (1950),Drama,2,4.189655172413793,58,26480
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,26480
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,26480
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,26480
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,26480
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,26480
+High Noon (1952),Drama|Western,2,4.151785714285714,56,26480
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,103872
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,103872
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,103872
+All About Eve (1950),Drama,2,4.189655172413793,58,103872
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,103872
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,103872
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,103872
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,103872
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,103872
+High Noon (1952),Drama|Western,2,4.151785714285714,56,103872
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,39214
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,39214
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,39214
+All About Eve (1950),Drama,2,4.189655172413793,58,39214
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,39214
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,39214
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,39214
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,39214
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,39214
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,39214
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,10164
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,10164
+All About Eve (1950),Drama,2,4.189655172413793,58,10164
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,10164
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,10164
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,10164
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,10164
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,10164
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,10164
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,10164
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,127453
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,127453
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,127453
+All About Eve (1950),Drama,2,4.189655172413793,58,127453
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,127453
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,127453
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,127453
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,127453
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,127453
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,127453
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,93710
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,93710
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,93710
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,93710
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,93710
+High Noon (1952),Drama|Western,2,4.151785714285714,56,93710
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,93710
+Battlestar Galactica (2003),Drama|Sci-Fi|War,2,4.140449438202247,89,93710
+"General, The (1926)",Comedy|War,2,4.127906976744186,43,93710
+"Apartment, The (1960)",Comedy|Drama|Romance,2,4.125,84,93710
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,129005
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,129005
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,129005
+All About Eve (1950),Drama,2,4.189655172413793,58,129005
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,129005
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,129005
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,129005
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,129005
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,129005
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,129005
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,32780
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,32780
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,32780
+All About Eve (1950),Drama,2,4.189655172413793,58,32780
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,32780
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,32780
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,32780
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,32780
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,32780
+High Noon (1952),Drama|Western,2,4.151785714285714,56,32780
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,105059
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,105059
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,105059
+All About Eve (1950),Drama,2,4.189655172413793,58,105059
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,105059
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,105059
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,105059
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,105059
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,105059
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,105059
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,65670
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,65670
+All About Eve (1950),Drama,2,4.189655172413793,58,65670
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,65670
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,65670
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,65670
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,65670
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,65670
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,65670
+High Noon (1952),Drama|Western,2,4.151785714285714,56,65670
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,58612
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,58612
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,58612
+All About Eve (1950),Drama,2,4.189655172413793,58,58612
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,58612
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,58612
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,58612
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,58612
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,58612
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,58612
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,67352
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,67352
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,67352
+All About Eve (1950),Drama,2,4.189655172413793,58,67352
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,67352
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,67352
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,67352
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,67352
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,67352
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,67352
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,98494
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,98494
+All About Eve (1950),Drama,2,4.189655172413793,58,98494
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,98494
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,98494
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,98494
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,98494
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,98494
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,98494
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,98494
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,58802
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,58802
+All About Eve (1950),Drama,2,4.189655172413793,58,58802
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,58802
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,58802
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,58802
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,58802
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,58802
+High Noon (1952),Drama|Western,2,4.151785714285714,56,58802
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,58802
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,134181
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,134181
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,134181
+All About Eve (1950),Drama,2,4.189655172413793,58,134181
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,134181
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,134181
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,134181
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,134181
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,134181
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,134181
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,45461
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,45461
+All About Eve (1950),Drama,2,4.189655172413793,58,45461
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,45461
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,45461
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,45461
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,45461
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,45461
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,45461
+High Noon (1952),Drama|Western,2,4.151785714285714,56,45461
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,102025
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,102025
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,102025
+Battlestar Galactica (2003),Drama|Sci-Fi|War,2,4.140449438202247,89,102025
+"Celebration, The (Festen) (1998)",Drama,2,4.118181818181818,55,102025
+Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),Adventure|Animation|Drama|Fantasy|Sci-Fi,2,4.097938144329897,97,102025
+Night on Earth (1991),Comedy|Drama,2,4.066666666666666,45,102025
+"Mission, The (1986)",Drama,2,4.0625,32,102025
+"Misérables, Les (1995)",Drama|War,2,4.038461538461538,13,102025
+Bringing Up Baby (1938),Comedy|Romance,2,4.035714285714286,56,102025
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,42290
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,42290
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,42290
+All About Eve (1950),Drama,2,4.189655172413793,58,42290
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,42290
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,42290
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,42290
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,42290
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,42290
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,42290
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,22352
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,22352
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,22352
+All About Eve (1950),Drama,2,4.189655172413793,58,22352
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,22352
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,22352
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,22352
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,22352
+High Noon (1952),Drama|Western,2,4.151785714285714,56,22352
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,22352
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,124078
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,124078
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,124078
+All About Eve (1950),Drama,2,4.189655172413793,58,124078
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,124078
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,124078
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,124078
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,124078
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,124078
+High Noon (1952),Drama|Western,2,4.151785714285714,56,124078
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,52520
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,52520
+All About Eve (1950),Drama,2,4.189655172413793,58,52520
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,52520
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,52520
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,52520
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,52520
+High Noon (1952),Drama|Western,2,4.151785714285714,56,52520
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,52520
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,52520
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,34494
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,34494
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,34494
+All About Eve (1950),Drama,2,4.189655172413793,58,34494
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,34494
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,34494
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,34494
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,34494
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,34494
+High Noon (1952),Drama|Western,2,4.151785714285714,56,34494
+12 Angry Men (1957),Drama,1,4.246031746031746,189,64150
+Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama,1,4.191860465116279,172,64150
+City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,1,4.170250896057348,279,64150
+Rear Window (1954),Mystery|Thriller,1,4.16390041493776,241,64150
+Casablanca (1942),Drama|Romance,1,4.155709342560554,289,64150
+My Neighbor Totoro (Tonari no Totoro) (1988),Animation|Children|Drama|Fantasy,1,4.135483870967742,155,64150
+Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,1,4.119791666666667,192,64150
+"Lives of Others, The (Das leben der Anderen) (2006)",Drama|Romance|Thriller,1,4.1069182389937104,159,64150
+"Sting, The (1973)",Comedy|Crime,1,4.103351955307263,179,64150
+Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime,1,4.093582887700535,187,64150
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,18390
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,18390
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,18390
+All About Eve (1950),Drama,2,4.189655172413793,58,18390
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,18390
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,18390
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,18390
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,18390
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,18390
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,18390
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,86768
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,86768
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,86768
+All About Eve (1950),Drama,2,4.189655172413793,58,86768
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,86768
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,86768
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,86768
+High Noon (1952),Drama|Western,2,4.151785714285714,56,86768
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,86768
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,86768
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,20028
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,20028
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,20028
+All About Eve (1950),Drama,2,4.189655172413793,58,20028
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,20028
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,20028
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,20028
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,20028
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,20028
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,20028
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,129078
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,129078
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,129078
+All About Eve (1950),Drama,2,4.189655172413793,58,129078
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,129078
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,129078
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,129078
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,129078
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,129078
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,129078
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,78362
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,78362
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,78362
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,78362
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,78362
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,78362
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,78362
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,78362
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,78362
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,78362
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,359
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,359
+All About Eve (1950),Drama,2,4.189655172413793,58,359
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,359
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,359
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,359
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,359
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,359
+High Noon (1952),Drama|Western,2,4.151785714285714,56,359
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,359
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,48821
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,48821
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,48821
+All About Eve (1950),Drama,2,4.189655172413793,58,48821
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,48821
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,48821
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,48821
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,48821
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,48821
+High Noon (1952),Drama|Western,2,4.151785714285714,56,48821
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,42124
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,42124
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,42124
+All About Eve (1950),Drama,2,4.189655172413793,58,42124
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,42124
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,42124
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,42124
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,42124
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,42124
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,42124
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,79601
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,79601
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,79601
+All About Eve (1950),Drama,2,4.189655172413793,58,79601
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,79601
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,79601
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,79601
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,79601
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,79601
+High Noon (1952),Drama|Western,2,4.151785714285714,56,79601
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,8932
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,8932
+All About Eve (1950),Drama,2,4.189655172413793,58,8932
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,8932
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,8932
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,8932
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,8932
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,8932
+High Noon (1952),Drama|Western,2,4.151785714285714,56,8932
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,8932
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,98541
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,98541
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,98541
+All About Eve (1950),Drama,2,4.189655172413793,58,98541
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,98541
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,98541
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,98541
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,98541
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,98541
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,98541
+"Shawshank Redemption, The (1994)",Crime|Drama,1,4.36436170212766,564,11081
+"Godfather, The (1972)",Crime|Drama,1,4.315848214285714,448,11081
+Fight Club (1999),Action|Crime|Drama|Thriller,1,4.258503401360544,588,11081
+12 Angry Men (1957),Drama,1,4.246031746031746,189,11081
+"Godfather: Part II, The (1974)",Crime|Drama,1,4.218461538461538,325,11081
+"Matrix, The (1999)",Action|Sci-Fi|Thriller,1,4.195359281437126,668,11081
+Memento (2000),Mystery|Thriller,1,4.194616977225673,483,11081
+Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama,1,4.191860465116279,172,11081
+"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,1,4.190092165898617,434,11081
+"Usual Suspects, The (1995)",Crime|Mystery|Thriller,1,4.180616740088106,454,11081
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,123297
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,123297
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,123297
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,123297
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,123297
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,123297
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,123297
+Battlestar Galactica (2003),Drama|Sci-Fi|War,2,4.140449438202247,89,123297
+Dr. Horrible's Sing-Along Blog (2008),Comedy|Drama|Musical|Sci-Fi,2,4.121212121212121,99,123297
+"Celebration, The (Festen) (1998)",Drama,2,4.118181818181818,55,123297
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,46645
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,46645
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,46645
+All About Eve (1950),Drama,2,4.189655172413793,58,46645
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,46645
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,46645
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,46645
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,46645
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,46645
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,46645
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,9197
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,9197
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,9197
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,9197
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,9197
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,9197
+High Noon (1952),Drama|Western,2,4.151785714285714,56,9197
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,9197
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,9197
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,9197
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,102532
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,102532
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,102532
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,102532
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,102532
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,102532
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,102532
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,102532
+High Noon (1952),Drama|Western,2,4.151785714285714,56,102532
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,102532
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,131620
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,131620
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,131620
+All About Eve (1950),Drama,2,4.189655172413793,58,131620
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,131620
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,131620
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,131620
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,131620
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,131620
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,131620
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,48410
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,48410
+All About Eve (1950),Drama,2,4.189655172413793,58,48410
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,48410
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,48410
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,48410
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,48410
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,48410
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,48410
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,48410
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,28340
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,28340
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,28340
+All About Eve (1950),Drama,2,4.189655172413793,58,28340
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,28340
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,28340
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,28340
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,28340
+High Noon (1952),Drama|Western,2,4.151785714285714,56,28340
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,28340
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,83556
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,83556
+All About Eve (1950),Drama,2,4.189655172413793,58,83556
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,83556
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,83556
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,83556
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,83556
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,83556
+High Noon (1952),Drama|Western,2,4.151785714285714,56,83556
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,83556
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,131910
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,131910
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,131910
+All About Eve (1950),Drama,2,4.189655172413793,58,131910
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,131910
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,131910
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,131910
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,131910
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,131910
+High Noon (1952),Drama|Western,2,4.151785714285714,56,131910
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,130715
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,130715
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,130715
+All About Eve (1950),Drama,2,4.189655172413793,58,130715
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,130715
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,130715
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,130715
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,130715
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,130715
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,130715
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,14437
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,14437
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,14437
+All About Eve (1950),Drama,2,4.189655172413793,58,14437
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,14437
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,14437
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,14437
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,14437
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,14437
+High Noon (1952),Drama|Western,2,4.151785714285714,56,14437
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,135418
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,135418
+All About Eve (1950),Drama,2,4.189655172413793,58,135418
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,135418
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,135418
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,135418
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,135418
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,135418
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,135418
+High Noon (1952),Drama|Western,2,4.151785714285714,56,135418
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,129498
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,129498
+All About Eve (1950),Drama,2,4.189655172413793,58,129498
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,129498
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,129498
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,129498
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,129498
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,129498
+High Noon (1952),Drama|Western,2,4.151785714285714,56,129498
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,129498
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,120067
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,120067
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,120067
+All About Eve (1950),Drama,2,4.189655172413793,58,120067
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,120067
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,120067
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,120067
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,120067
+High Noon (1952),Drama|Western,2,4.151785714285714,56,120067
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,120067
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,53930
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,53930
+All About Eve (1950),Drama,2,4.189655172413793,58,53930
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,53930
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,53930
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,53930
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,53930
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,53930
+High Noon (1952),Drama|Western,2,4.151785714285714,56,53930
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,53930
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,66362
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,66362
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,66362
+All About Eve (1950),Drama,2,4.189655172413793,58,66362
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,66362
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,66362
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,66362
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,66362
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,66362
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,66362
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,79401
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,79401
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,79401
+All About Eve (1950),Drama,2,4.189655172413793,58,79401
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,79401
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,79401
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,79401
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,79401
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,79401
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,79401
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,35522
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,35522
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,35522
+All About Eve (1950),Drama,2,4.189655172413793,58,35522
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,35522
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,35522
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,35522
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,35522
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,35522
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,35522
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,52004
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,52004
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,52004
+All About Eve (1950),Drama,2,4.189655172413793,58,52004
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,52004
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,52004
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,52004
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,52004
+High Noon (1952),Drama|Western,2,4.151785714285714,56,52004
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,52004
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,87042
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,87042
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,87042
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,87042
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,87042
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,87042
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,87042
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,87042
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,87042
+Battlestar Galactica (2003),Drama|Sci-Fi|War,2,4.140449438202247,89,87042
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,58265
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,58265
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,58265
+All About Eve (1950),Drama,2,4.189655172413793,58,58265
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,58265
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,58265
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,58265
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,58265
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,58265
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,58265
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,31321
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,31321
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,31321
+All About Eve (1950),Drama,2,4.189655172413793,58,31321
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,31321
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,31321
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,31321
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,31321
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,31321
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,31321
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,70282
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,70282
+All About Eve (1950),Drama,2,4.189655172413793,58,70282
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,70282
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,70282
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,70282
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,70282
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,70282
+High Noon (1952),Drama|Western,2,4.151785714285714,56,70282
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,70282
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,56574
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,56574
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,56574
+All About Eve (1950),Drama,2,4.189655172413793,58,56574
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,56574
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,56574
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,56574
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,56574
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,56574
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,56574
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,115852
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,115852
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,115852
+All About Eve (1950),Drama,2,4.189655172413793,58,115852
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,115852
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,115852
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,115852
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,115852
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,115852
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,115852
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,120479
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,120479
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,120479
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,120479
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,120479
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,120479
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,120479
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,120479
+"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2,4.141666666666667,60,120479
+Battlestar Galactica (2003),Drama|Sci-Fi|War,2,4.140449438202247,89,120479
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,138072
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,138072
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,138072
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,138072
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,138072
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,138072
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,138072
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,138072
+High Noon (1952),Drama|Western,2,4.151785714285714,56,138072
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,138072
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,104037
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,104037
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,104037
+All About Eve (1950),Drama,2,4.189655172413793,58,104037
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,104037
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,104037
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,104037
+High Noon (1952),Drama|Western,2,4.151785714285714,56,104037
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,104037
+Secrets & Lies (1996),Drama,2,4.144736842105263,38,104037
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,2945
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,2945
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,2945
+All About Eve (1950),Drama,2,4.189655172413793,58,2945
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,2945
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,2945
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,2945
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,2945
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,2945
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,2945
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,24112
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,24112
+All About Eve (1950),Drama,2,4.189655172413793,58,24112
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,24112
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,24112
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,24112
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,24112
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,24112
+High Noon (1952),Drama|Western,2,4.151785714285714,56,24112
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,24112
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,97195
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,97195
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,97195
+All About Eve (1950),Drama,2,4.189655172413793,58,97195
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,97195
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,97195
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,97195
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,97195
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,97195
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,97195
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,96482
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,96482
+All About Eve (1950),Drama,2,4.189655172413793,58,96482
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,96482
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,96482
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,96482
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,96482
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,96482
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,96482
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,96482
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,121052
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,121052
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,121052
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,121052
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,121052
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,121052
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,121052
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,121052
+Battlestar Galactica (2003),Drama|Sci-Fi|War,2,4.140449438202247,89,121052
+Double Indemnity (1944),Crime|Drama|Film-Noir,2,4.139175257731959,97,121052
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,10055
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,10055
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,10055
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,10055
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,10055
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,10055
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,10055
+High Noon (1952),Drama|Western,2,4.151785714285714,56,10055
+"Gold Rush, The (1925)",Adventure|Comedy|Romance,2,4.15,50,10055
+"Man for All Seasons, A (1966)",Drama,2,4.140625,32,10055
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,45669
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,45669
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,45669
+All About Eve (1950),Drama,2,4.189655172413793,58,45669
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,45669
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,45669
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,45669
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,45669
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,45669
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,45669
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,49129
+Band of Brothers (2001),Action|Drama|War,2,4.247422680412371,97,49129
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,49129
+All About Eve (1950),Drama,2,4.189655172413793,58,49129
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,49129
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,49129
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,49129
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,49129
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,49129
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,49129
+Touch of Evil (1958),Crime|Film-Noir|Thriller,2,4.2592592592592595,54,102118
+Stop Making Sense (1984),Documentary|Musical,2,4.22,25,102118
+All About Eve (1950),Drama,2,4.189655172413793,58,102118
+"Best Years of Our Lives, The (1946)",Drama|War,2,4.189655172413793,29,102118
+Intouchables (2011),Comedy|Drama,2,4.1692307692307695,65,102118
+"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,2,4.166666666666667,60,102118
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,2,4.157407407407407,108,102118
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,2,4.157407407407407,54,102118
+Henry V (1989),Action|Drama|Romance|War,2,4.153846153846154,52,102118
+High Noon (1952),Drama|Western,2,4.151785714285714,56,102118
